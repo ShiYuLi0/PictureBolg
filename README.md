@@ -1,2 +1,2 @@
 # PictureBolg
-博客图床
+CDN加速
